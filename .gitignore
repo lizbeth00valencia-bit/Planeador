@@ -1,0 +1,5 @@
+node_modules/
+.env*
+*respaldo*.json
+Vita_Calendario_*.xlsx
+*.log
